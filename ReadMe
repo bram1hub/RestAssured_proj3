@@ -1,0 +1,23 @@
+Source:
+https://www.youtube.com/watch?v=ow_C2CMnldA&list=PLuqnSAN_m8K1sP5KeICTdtiMJyE4eZxSv
+
+References:
+https://github.com/google/gson/blob/master/UserGuide.md
+https://www.javadoc.io/doc/com.google.code.gson/gson/2.8.9
+
+
+
+Publie APIs which can be used:
+
+https://gorest.co.in/public/v1/todos
+
+
+https://gorest.co.in/
+https://reqres.in/
+https://apipheny.io/free-api/
+https://github.com/public-apis/public-apis
+
+https://rapidapi.com/collection/list-of-free-apis
+
+Can use JSON path finder or its chrome plugin to find elments in the JSON response.
+
