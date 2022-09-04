@@ -33,7 +33,7 @@ public class GetPostsById extends BaseTest{
 			//System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 			System.out.println(obj.get("author"));
 			
-			if((int)obj.get("id")==10 && obj.get("author").equals("InstagramAuthor")) {
+			if((Integer)obj.get("id")==10 && obj.get("author").equals("InstagramAuthor")) {
 				System.out.println("Instagram author found");
 			}
 		}
